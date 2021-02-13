@@ -1,2 +1,4 @@
 # toolbox
-Idk how u find that page, but please, just go away. There is nothing to see here.
+There's nothing to see here. Go away.
+
+![](imOk.gif)
